@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Michi19935
-- 👀 I’m interested in everything related to JavaScript
-- 🌱 I’m currently learning React
+- 👀 I’m interested in web-development
+- 🌱 I’m currently on my css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
